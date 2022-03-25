@@ -1,9 +1,12 @@
-# Fabric Example Mod
+# Ore Level Display mod
 
-## Setup
+## Source Code
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This is the Source Code if you dont know what your doing please dont open it!
 
-## License
+## developer team
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+soft is cold
+
+
+
